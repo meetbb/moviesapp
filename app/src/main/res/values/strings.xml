@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MoviesApp</string>
+    <string name="top_rated_string">Top Rated</string>
+    <string name="favourites_string">Favourites</string>
+    <string name="description">Movie</string>
+    <string name="no_favorite_movies_added">No favorite Movies added</string>
+    <string name="API_KEY">e869bd3dfcfa485bb8a2a9201a68541a</string>
+
+    <!--Movie Details Section-->
+    <string name="share_trailer">Share trailer</string>
+    <string name="add_to_favorites">Mark as favorite</string>
+    <string name="remove_from_favorites">Remove from favorites</string>
+    <string name="watch_trailer">Watch trailer</string>
+
+    <!--Rating-->
+    <string name="movie_user_rating">TMDb: %1$s/10</string>
+</resources>
